@@ -1,4 +1,4 @@
-Interview Question    
+Interview Question    good
 2. what is type of Service  1. background Service 2.Forground Service 3. 4. Bound Service  unbound service
 1-What is Activity Life cycle ?
 2. What Fragment Life cycle?
