@@ -1,0 +1,49 @@
+2022 Interview question 
+
+2023
+
+Interview Question    
+2. what is type of Service  1. background Service 2.Forground Service 3. 4. Bound Service  unbound service
+1-What is Activity Life cycle ?
+2. What Fragment Life cycle?
+3. Android View Life Cycle?
+
+what is Defference b/w Masure on layout?
+what is invaldate () vs Requestlayout?
+what is therads  handlerThread?
+what is handler?
+what is one Looper Multiple handlers?
+
+what is lanuch mode?
+what is board Cast Reciever?
+what is Deffernce b/w MVP MVVM?
+
+what is pros and cons?
+
+
+https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e
+
+what is custom View ?
+why not create new object in on Drow()?
+what is single?
+
+What is Lib Thread and make 
+Glide Internal working ?
+
+what mislines Questions?
+
+how to store api in Android ?
+what is proground in android ?
+
+what is gradle In android?
+
+pandey$1989
+
+
+
+
+what is Glide Image code 
+
+Glide.with(this).load("www.google.com").into(imageView);
+
+what is picaso
