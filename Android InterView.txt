@@ -16,6 +16,8 @@ what is Deffernce b/w MVP MVVM?
 
 what is pros and cons?
 
+//BEST ANSER
+
 
 https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e
 
